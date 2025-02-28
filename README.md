@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
   <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/fadhil"><img src="https://img.shields.io/github/followers/fadhil?style=social"></a>
+  <a href="https://github.com/fadhilrachman"><img src="https://img.shields.io/github/followers/fadhilrachman?style=social"></a>
 </p>
 
 ---
@@ -31,12 +31,12 @@
 
 ### 📈 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fadhil&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fadhil&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fadhilrachman&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fadhilrachman&theme=tokyonight" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadhil&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadhilrachman&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
 ---
