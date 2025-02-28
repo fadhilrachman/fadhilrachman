@@ -29,7 +29,7 @@
 
 ---
 
-### 📈 GitHub Stats  
+<!-- ### 📈 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fadhilrachman&show_icons=true&theme=tokyonight" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fadhilrachman&theme=tokyonight" width="48%" />
@@ -39,7 +39,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadhilrachman&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
----
+--- -->
 
 ### 📫 Contact Me  
 - 📧 Email: muhfadhilrachman@gmail.com  
