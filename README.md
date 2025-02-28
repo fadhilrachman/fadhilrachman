@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Fadhil! 👋</h1>
-<h3 align="center">Full Stack Developer | API Enthusiast | Open Source Contributor</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
@@ -42,9 +42,9 @@
 ---
 
 ### 📫 Contact Me  
-- 📧 Email: your-email@example.com  
-- 🔗 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
-- 🏡 Portfolio: [your-portfolio.com](https://your-portfolio.com)  
+- 📧 Email: muhfadhilrachman@gmail.com  
+- 🔗 LinkedIn: [https://www.linkedin.com/in/fadhil-rahman-856096247/](https://www.linkedin.com/in/fadhil-rahman-856096247/)  
+- 🏡 Portfolio: [https://fadhilr-portofolio.vercel.app/](https://fadhilr-portofolio.vercel.app/)  
 
 ---
 
